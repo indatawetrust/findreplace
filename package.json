@@ -1,0 +1,27 @@
+{
+  "name": "findreplace",
+  "version": "0.0.1",
+  "description": "Find and replace or add the desired value for the arrays.",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indatawetrust/findreplace.git"
+  },
+  "keywords": [
+    "array",
+    "find",
+    "replace"
+  ],
+  "author": "indatawetrust",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indatawetrust/findreplace/issues"
+  },
+  "homepage": "https://github.com/indatawetrust/findreplace#readme",
+  "devDependencies": {
+    "ava": "^0.22.0"
+  }
+}
