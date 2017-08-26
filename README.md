@@ -3,3 +3,9 @@ Status](https://img.shields.io/travis/indatawetrust/findreplace.svg)](https://tr
 
 # findreplace
 Find and replace or add the desired value for the arrays.
+
+#### install
+
+```
+npm i findreplace -S
+```
